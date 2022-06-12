@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sınıf>
+	<öğrenci>
+		<İsim>Ali Yılmaz</İsim>
+		<vize>87</vize>
+		<final>67</final>
+		<ortalama></ortalama>
+		<durum></durum>
+	</öğrenci>
+	<öğrenci>
+		<İsim>Dursun Melek</İsim>
+		<vize>52</vize>
+		<final>50</final>
+		<ortalama></ortalama>
+		<durum></durum>
+	</öğrenci>
+	<öğrenci>
+		<İsim>Ayşe Demir</İsim>
+		<vize>30</vize>
+		<final>97</final>
+		<ortalama></ortalama>
+		<durum></durum>
+	</öğrenci>
+	<öğrenci>
+		<İsim>Dilara Çelik</İsim>
+		<vize>100</vize>
+		<final>32</final>
+		<ortalama></ortalama>
+		<durum></durum>
+	</öğrenci>
+</sınıf>
